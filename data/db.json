@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça",
+      "price": 70
+    },
+    {
+      "id": "3",
+      "name": "Shorts",
+      "price": 30
+    },
+    {
+      "id": "4",
+      "name": "Boné Aba reta",
+      "price": 70
+    },
+    {
+      "id": "ae2f",
+      "name": "teste",
+      "price": "12"
+    },
+    {
+      "id": "7229",
+      "name": "teste",
+      "price": "45"
+    },
+    {
+      "id": "8770",
+      "name": "teste",
+      "price": "45"
+    },
+    {
+      "id": "1758",
+      "name": "teste",
+      "price": "45"
+    },
+    {
+      "id": "16b0",
+      "name": "teste",
+      "price": "12213"
+    },
+    {
+      "id": "37dc",
+      "name": "teste",
+      "price": "56"
+    }
+  ]
+}
